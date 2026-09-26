@@ -59,3 +59,10 @@ The original chatbot functionality was extended by adding a more interactive use
 ## Screenshots
 
 Screenshots demonstrating the working application will be added below.
+### Text-to-Speech and Available Voices
+### Program Output
+<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/1a2a0744-2c31-4b8f-b6cb-09b229919504" />
+<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/3fc1b0c2-46e0-4180-8c8a-4cb3c89ad90f" />
+
+
+
