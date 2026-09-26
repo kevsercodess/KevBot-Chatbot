@@ -62,7 +62,8 @@ Screenshots demonstrating the working application will be added below.
 ### Text-to-Speech and Available Voices
 ### Program Output
 <img width="1920" height="1080" alt="image(20260926-121101)" src="https://github.com/user-attachments/assets/2700d50a-7074-4f42-82c5-09ef06e30c16" />
-<img width="1920" height="1015" alt="KevBot_TextToSpeech (1)" src="https://github.com/user-attachments/assets/20488554-ea6d-462e-b010-a2abb9cbb257" />
+<img width="1920" height="1080" alt="kevbot-chatbot" src="https://github.com/user-attachments/assets/df607f7e-220f-4ccb-a928-8c3b94f1c64b" />
+
 
 
 
